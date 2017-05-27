@@ -1,0 +1,9 @@
+
+# Build
+build/
+
+# Binaries
+*.obj
+*.lib
+*.a
+
